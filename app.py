@@ -217,4 +217,4 @@ else:
 
 # ---- Footer ----
 st.markdown("---")
-st.caption("Built for portfolio demo. Code is modular with error handling. | github.com/yourname/cybersec-toolkit")
+st.caption("Built for portfolio demo. Code is modular with error handling. | github.com/SyazAwie/cybersec-toolkit")
