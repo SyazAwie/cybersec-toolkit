@@ -24,7 +24,7 @@ This project was built to showcase secure coding practices, automated testing (C
 
 1. Clone the repository:
    ```bash
-   git clone [https://github.com/YOUR_USERNAME/cybersec-toolkit.git](https://github.com/YOUR_USERNAME/cybersec-toolkit.git)
+   git clone [https://github.com/SyazAwie/cybersec-toolkit.git](https://github.com/SyazAwie/cybersec-toolkit.git)
 
 2. Install dependencies:
    ```bash
