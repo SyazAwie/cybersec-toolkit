@@ -1,3 +1,4 @@
 streamlit>=1.35.0
 cryptography>=42.0.0
 zxcvbn>=4.4.28
+pytest>=8.0.0
